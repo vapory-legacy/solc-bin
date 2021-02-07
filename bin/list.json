@@ -9,6 +9,16 @@
       "urls": [
         "bzzr://bf294a6a7cb81152005511c1cbad848f0108ed4189bd060c9b9e559e1fa5659b"
       ]
+    },
+    {
+      "path": "soljson-v0.4.19+commit.cd3ef300.js",
+      "version": "0.4.19",
+      "build": "commit.cd3ef300",
+      "longVersion": "0.4.19+commit.cd3ef300",
+      "keccak256": "0xbec65efd97d60ceb90ba82983bbcde61a2d439280dc7f097a8b7aa7a64e5003b",
+      "urls": [
+        "bzzr://7a66e1bcfc14af8bc942ae6632eab81b8099ca7b157efa0c91c60acd5894a6df"
+      ]
     }
   ],
   "releases": {

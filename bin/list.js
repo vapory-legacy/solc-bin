@@ -1,5 +1,6 @@
 
 var soljsonSources = [
+  "soljson-v0.4.19+commit.cd3ef300.js",
   "soljson-v0.4.19+commit.91aa27c5.js"
 ];
 var soljsonReleases = {
